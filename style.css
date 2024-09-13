@@ -10,3 +10,8 @@ p {
 p:first-letter {
     color:#3387e0;
 }
+
+img {
+    width:100%;
+    max-width:960px;
+}
