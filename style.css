@@ -6,3 +6,7 @@ body {
 p {
     color:#914391;
 }
+
+p:first-letter {
+    color:#3387e0;
+}
