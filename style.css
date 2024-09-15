@@ -13,5 +13,7 @@ p:first-letter {
 
 img {
     width:100%;
-    max-width:960px;
+    max-width:500px;
+    display:block;
+    margin:auto;
 }
